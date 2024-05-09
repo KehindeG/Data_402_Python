@@ -1,5 +1,5 @@
 # Python Fundamentals!
-
+-------------------
 ### Commenting in your IDE
 You can create comments in your code 
 in two ways:<br>
@@ -26,9 +26,19 @@ Here's an example:<br>
 ### Math Operators
 Most programming languages have the same math operators.
 
-Operator | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;↓ <br>
-'+' | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-'-' | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-'*' | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-'/' | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
-'%' | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br>
+Operator:&nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; Function:&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; |  &nbsp; &nbsp; &nbsp; Example:<br>
+&nbsp; &nbsp; &nbsp;  +  &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Add &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |   &nbsp; &nbsp; &nbsp; 10 + 10 (20)<br>
+&nbsp; &nbsp; &nbsp;  -  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; Subtract&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;|  &nbsp; &nbsp; &nbsp; 20 - 10 (10)<br>
+&nbsp; &nbsp; &nbsp;  * &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; Multiply&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;|   &nbsp; &nbsp; &nbsp; 10 * 10 (100)<br> 
+&nbsp; &nbsp; &nbsp;  / &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Divide&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp;|  &nbsp; &nbsp; &nbsp; 100 / 20 (5)<br>
+&nbsp; &nbsp; &nbsp;  % &nbsp; &nbsp; &nbsp; &nbsp;| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Modulo&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|  &nbsp; &nbsp; &nbsp; 20 % 6 (2)<br>
+
+<i class="fas fa-lightbulb"></i>
+<i class="fas fa-lightbulb" style="color: yellow; font-size: 24px;"></i>
+Modulo calculates the remainder of a division operation. So in the example above, 6 goes into 12 twice, and leaves 2 remaining. Thus the example above returns 2.<br>
+
+------
+
+### Strings
+
+h
