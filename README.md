@@ -82,21 +82,45 @@ The names of variables are very important. Here are few stand-out rules:<br>
 + If your variable is more than one word, it should use snake-casing: `this_is_snake_casing`
 + It should not start with a literal (our core datatypes, eg. a number; 10, a string "like this" etc. )<br>
 
+Here's the PEP8 style guide for Python code: [PEP8 Style Guide](https://peps.python.org/pep-0008/)
+
 -----
 
 ### Concatenation
 
 To concatenate is to join strings together to form a new string.
 To do this, we use the `+` operator.
+Here's an example:<br>
+Here are two variables:<br>
+`first_name = "John"`<br>
+`last_name = "Doe"`<br>
+Now let's concatenate them to form a variable called 'full_name':<br>
+`full_name = first_name + last_name`<br>
+Now let's print this:`print(full_name)`<br>
+This will return: `JohnDoe`<br>
+If we want to print this with a space between the first and last name, we add an empty string between them:<br>
+`full_name = first_name + " " + last_name`<br>
+`print(full_name)`<br>
+This will print: `John Doe`
 
+-----
+### Collections
 
-
+Collections allow us to store large amounts of data. There are two main formats of collections in Python; Lists and Dictionaries.<br>
+#### Lists<br>
+Lists(arrays) are index-based
 
 
 
 <br>
 <br>
 <br>
-h
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
