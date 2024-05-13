@@ -7,6 +7,7 @@ in two ways:<br>
 Using `# (This is a comment)`<br>
 or <br>
 Using `""" (Your comment goes here) """`
+
 --------
 ### Data Types
 There are three main data types in Python: 
